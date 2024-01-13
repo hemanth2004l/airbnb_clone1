@@ -1,4 +1,3 @@
-# airbnb_clone1
 # Airbnb Clone Project
 
 ## Overview
