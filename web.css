@@ -1,0 +1,209 @@
+.image{
+    width:200px;
+    height: 40px;
+}
+.search{
+    display: flex;
+    justify-content:center;
+    gap: 10px;
+    flex-wrap: nowrap;
+   
+    
+}
+.main{
+    display:flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.619);
+}
+.anyweek{
+    border-left: 2px solid rgba(128, 128, 128, 0.286);
+    padding-left:20px;
+    padding-right: 10px;
+}
+.addguest{
+    border-left: 2px solid rgba(128, 128, 128, 0.352);
+    padding-left:20px;
+    color: gray;
+    padding-right: 10px;
+}
+.anywhere{
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.ser{
+    padding-left:20px;
+    color:white;
+    padding: 5px;
+    background-color:hwb(337 0% 0% / 0.573);
+    border-radius:50%;
+    margin-top:9px;
+}
+.button{
+    border-radius: 35px;
+    background-color: white;
+    border: 2px solid rgba(128, 128, 128, 0.475);
+}
+.bnbhome{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content:space-between;
+
+}
+.hmn{
+    border-radius:35px;
+    background-color:rgba(128, 128, 128, 0.048);
+    border: none;
+
+}
+.globe{
+    /* padding-top: 16px; */
+    padding-left: 8px;
+    padding-right: 10px; 
+    
+}
+.glb{
+  /* padding-left: 20px; */
+    color:black;
+    background-color:rgba(128, 128, 128, 0.047);
+    border-radius:50%; 
+    /* margin-bottom: 10px; */
+    border: none;
+    text-align: center;
+    
+}
+.prf{
+    display: flex;
+    width: 75px;
+    height: 43px;
+    flex-wrap: nowrap;
+    justify-content:space-between;
+    border-radius:35px;
+    background-color: white;
+    border: 2px solid rgba(128, 128, 128, 0.256);
+}
+.person{
+    padding-top:13px;
+}
+.list{
+    padding-top:13px;
+}
+.farmimg{
+    height: 40px;
+    width: 40px;
+   margin-bottom: 0;
+   padding-bottom:0;
+
+}
+.pfarms{
+    margin-top: 0;
+   
+}
+.farms{
+    padding:30px 0px 3px 30px;
+    text-align: center;
+}
+.header{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.btnfil{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    gap:15px;
+}
+.fill{
+    padding-top: 15px;
+}
+.btnfil{
+    border-radius: 15px;
+    background-color:white;
+    border: 2px solid rgba(128, 128, 128, 0.067);
+}
+.btnswitch{
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 30px;
+    border-radius: 15px;
+    background-color:white;
+    border: 2px solid rgba(128, 128, 128, 0.067);
+}
+.switch{
+    margin-top: 3px;
+    width: 50px;
+    height: 40px;
+    
+}
+.scroll{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.fillter{
+    padding:30px 0px 3px 30px;
+}
+.swit{
+    padding:30px 0px 3px 30px;
+}
+.sidebar{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.scroll{
+    padding-bottom: 20px;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.619);
+}
+.like{
+    top:20px;
+   right: 30px;
+    position: absolute;
+}
+.strrate{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+.address{
+    display: flex;
+    justify-content: space-between;
+}
+.kilo{
+    color: rgb(128, 128, 128);
+    line-height: 3px;
+}
+.kilo1{
+    line-height: 5px;
+} 
+.night
+{
+    color:rgba(0, 0, 0, 0.732);
+}
+.image1{
+     width: 400px; 
+     height: 400px;
+     margin-left: 30px;
+    position: relative;
+    line-height:0;
+}
+.img1{
+    width: 100%;
+    border-radius: 10px;
+    height: 250px;
+}
+.items{
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    width: auto;
+    align-items: center;
+    padding: 10px;
+}
+.img1:hover{
+   transform: rotate(3deg);
+    transition:0.2sec;
+    
+
+}
