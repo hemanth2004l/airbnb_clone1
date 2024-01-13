@@ -1,5 +1,3 @@
-# Airbnb Clone Project
-
 ## Overview
 
 Welcome to my Airbnb clone project! This project is a web development exercise where I aimed to replicate the look and feel of the Airbnb website using HTML and CSS.
