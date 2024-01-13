@@ -1,10 +1,10 @@
 ## airbnb_clone1
-clone project
->> Overview
+## clone project
+## Overview
 
 Welcome to my Airbnb clone project! This project is a web development exercise where I aimed to replicate the look and feel of the Airbnb website using HTML and CSS.
 
->>>Files
+## Files
 
 1. *web.html:* This file serves as the main structure of the website. It includes sections like headers, navigation, and content, mirroring the structure of the Airbnb site.
 
@@ -12,7 +12,7 @@ Welcome to my Airbnb clone project! This project is a web development exercise w
 
 3. *images folder:* Contains all the images used in the project. Each image is carefully selected to enhance the overall visual appeal and resemblance to the Airbnb website.
 
->>> How to View
+## How to View
 
 To view the Airbnb clone, simply open the web.html file in your preferred web browser. You can also deploy it to a live server for a more interactive experience.
 
